@@ -1,4 +1,3 @@
-# ��� Dog Fence Vision – Leashless Walking Feature
 # 🐾 Leashless Walking Mode (Owner-Proximity Tracking)
 
 **Concept by Raymond Gaither III – Documented May 2025**
